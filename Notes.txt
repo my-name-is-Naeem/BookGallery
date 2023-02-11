@@ -1,0 +1,23 @@
+Read button background:coor:background-color: #0376b8;font-size: 16px;border-radius: 5px;cursor: pointer;font-family: "Lucida Grande",Verdana,Geneva,Helvetica,Arial,sans-serif;text-align: center;
+white-space: nowrap;line-height: 1.5em;transition: background-color .2s;
+
+a:hover, a:visited {
+    color: #003266;
+
+next prev arrow
+.carousel .slick-prev:before, .carousel .slick-next:before {
+    color: hsl(202, 96%, 37%);
+    font-size: 35px;
+}
+
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: 0.75;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+
+
+
+Checked out:background-color: #666;
